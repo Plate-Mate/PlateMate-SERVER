@@ -48,6 +48,7 @@
 ## **Branch Convention**
 - main
 - issue 생성 후, git flow 전략으로 브랜치 생성
+
 **브랜치명 예시** : feat/#9-api-setting
 
 
